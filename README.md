@@ -1,4 +1,4 @@
-# ![Medium-Clone](https://i.imgur.com/5rzQNco.png)
+# ![Medium-Clone](https://i.imgur.com/N4MBiCy.png)
 # Medium-Clone
 <table>
 <tr>
