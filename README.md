@@ -1,23 +1,43 @@
-# Next.js + Tailwind CSS Example
+# ![Medium-Clone](https://i.imgur.com/5rzQNco.png)
+# Medium-Clone
+<table>
+<tr>
+<td>
+  A full-stack chat application utilizing Next.js, Sanity, and Tailwind
+</td>
+</tr>
+</table>
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
-## Deploy your own
+## Demo
+Here is a working live demo :  [Medium-Clone](https://medium-live-clone.netlify.app/)
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+## Site
 
-## How to use
+### Landing Page
+![](https://i.imgur.com/UF3sYA1.png)
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+## [Usage](https://github.com/FrancoisCoding/Medium-Clone) 
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+### Bug / Feature Request
+
+If you find a bug (the website couldn't handle the query, message and / or gave undesired results), kindly open an issue [here](https://github.com/FrancoisCoding/Medium-Clone/issues/new) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/FrancoisCoding/Medium-Clone/issues/new). Please include an example/use case for the feature.
+
+
+## Built with 
+
+- [Next.js](https://nextjs.org/) - Next.js gives you the best developer experience with all the features you need for production
+- [Sanity](https://www.sanity.io/) - Sanity.io is the unified content platform that powers better digital experiences
+- [Tailwind CSS](https://tailwindcss.com/) - Rapidly build modern websites without ever leaving your HTML
+
+
+## Team
+
+![Isaiah Francois](https://avatars3.githubusercontent.com/u/42652624?s=460&u=67ee8021c518676f3ec3e99d8c12906b36842365&v=4)
+
+
